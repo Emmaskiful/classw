@@ -1,0 +1,60 @@
+.loginbtn{
+    text-decoration: none;
+    margin-right: 20px;
+    color: rgb(107, 95, 95);
+    margin-top: 5px;
+}
+
+.btn{
+    border-color: rgb(151, 149, 149);
+    color: rgb(141, 137, 137);
+}
+
+
+.container{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.left p{
+    font-size: 12px;
+    color: rgb(95, 94, 94);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container a{
+        -webkit-border-radius: 12;
+        -moz-border-radius: 12;
+        border-radius: 12px;
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 13px;
+        background: #000000;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+        margin-top: 20px;
+}
+      
+.container a:hover {
+        background: #4f5152;
+        text-decoration: none;
+}
+
+.left1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.right img{
+    width: 400px;
+    height: 300px;
+    margin-left: 200px;
+}
